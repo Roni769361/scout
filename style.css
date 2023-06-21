@@ -103,6 +103,7 @@ body {
   height: 150px;
   text-align: center;
   border-radius: 50%;
+  border: 1px solid white;
 }
 .card {
   background-color: rgba(39, 39, 39, 0.486);
@@ -180,7 +181,7 @@ body {
   text-align: center;
   margin: 20px;
   font-size: 20px;
-  background-color: rgba(255, 0, 0, 0.37);
+  background-color: rgba(0, 81, 255, 0.37);
   border-radius: 10px;
 }
 .popup .link {
@@ -197,6 +198,7 @@ body {
   cursor: pointer;
   z-index: 1;
   transition: transform 0.3s ease-out;
+  text-align: center;
   /* background-color: yellow; */
 
   padding: 10px;
